@@ -1,0 +1,5 @@
+﻿C:\Users\Eminf\Projects\AssessmentProject\AssessmentProject.Data\DataContext.cs
+C:\Users\Eminf\Projects\AssessmentProject\AssessmentProject.Data\Domain\DiscountRepository.cs
+C:\Users\Eminf\Projects\AssessmentProject\AssessmentProject.Data\Domain\InvoiceRepository.cs
+C:\Users\Eminf\Projects\AssessmentProject\AssessmentProject.Data\Domain\StoreRepository.cs
+C:\Users\Eminf\Projects\AssessmentProject\AssessmentProject.Data\Domain\UserRepository.cs

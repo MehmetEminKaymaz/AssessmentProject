@@ -1,0 +1,11 @@
+﻿.vs
+Data/obj
+AssessmentProject/obj
+AssessmentProject/bin
+Application/obj/Debug
+Application/obj
+Application/bin
+AssessmentProject.Data/bin
+AssessmentProject.Data/obj
+AssessmentProject.Application.Test/obj
+AssessmentProject.Application.Test/bin
